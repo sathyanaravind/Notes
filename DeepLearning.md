@@ -81,82 +81,82 @@
 
   
 ### Neural Networks
-- Introduction
-- Architecture
-- Activation Functions
-- Forward Propagation
-- Loss Function
-- Gradient Descent
-- Back Propagation
+- #### Introduction
+- #### Architecture
+- #### Activation Functions
+- #### Forward Propagation
+- #### Loss Function
+- #### Gradient Descent
+- #### Back Propagation
 
 ### Improving Neural Networks
-- Train/Dev/Test Sets
-- Bias/Variance
-- Basic Recipe for Machine Learning
-- Regularization
-  - Why Regularization Reduces Overfitting?
-  - Dropout Regularization
-  - Understanding Dropout
-  - Other Regularization Methods
-- Normalizing Inputs
-- Vanishing/Exploding Gradients
-- Weight Initialization in Deep Network
-- Numerical Approximation of Gradients
-  - Gradient Checking
-  - Mini Batch Gradient Descent
-  - Exponentially Weighted Averages
-  - Gradient Descent with Momentum
-  - RMS Prop
-  - Adam Optimization Algorithm
-  - Learning Rate Decay
-- Tuning Process
-- Using an Appropriate Scale
+- #### Train/Dev/Test Sets
+- #### Bias/Variance
+- #### Basic Recipe for Machine Learning
+- #### Regularization
+  - #### Why Regularization Reduces Overfitting?
+  - #### Dropout Regularization
+  - #### Understanding Dropout
+  - #### Other Regularization Methods
+- #### Normalizing Inputs
+- #### Vanishing/Exploding Gradients
+- #### Weight Initialization in Deep Network
+- #### Numerical Approximation of Gradients
+  - #### Gradient Checking
+  - #### Mini Batch Gradient Descent
+  - #### Exponentially Weighted Averages
+  - #### Gradient Descent with Momentum
+  - #### RMS Prop
+  - #### Adam Optimization Algorithm
+  - #### Learning Rate Decay
+- #### Tuning Process
+- #### Using an Appropriate Scale
 
 ### Convolutional Neural Networks (CNNs)
-- Introduction to CNNs
-  - What are Convolutional Neural Networks
-  - Why CNNs are Important
-  - Basic CNN Architecture
-- Convolutional Layers
-  - Convolution Operation
-  - Padding and Stride
-  - Filters and Feature Maps
-- Pooling Layers
-  - Max Pooling
-  - Average Pooling
-- CNN Architectures
-  - LeNet
-  - AlexNet
-  - VGGNet
-  - ResNet
-- Transfer Learning with CNNs
-  - Using Pretrained Models
-  - Fine-tuning
-- Applications of CNNs
-  - Image Classification
-  - Object Detection
-  - Semantic Segmentation
-- Challenges and Future Directions
-  - Overfitting
-  - Data Augmentation
-  - Adversarial Attacks
+- #### Introduction to CNNs
+  - #### What are Convolutional Neural Networks
+  - #### Why CNNs are Important
+  - #### Basic CNN Architecture
+- #### Convolutional Layers
+  - #### Convolution Operation
+  - #### Padding and Stride
+  - #### Filters and Feature Maps
+- #### Pooling Layers
+  - #### Max Pooling
+  - #### Average Pooling
+- #### CNN Architectures
+  - #### LeNet
+  - #### AlexNet
+  - #### VGGNet
+  - #### ResNet
+- #### Transfer Learning with CNNs
+  - #### Using Pretrained Models
+  - #### Fine-tuning
+- #### Applications of CNNs
+  - #### Image Classification
+  - #### Object Detection
+  - #### Semantic Segmentation
+- #### Challenges and Future Directions
+  - #### Overfitting
+  - #### Data Augmentation
+  - #### Adversarial Attacks
 
 ### Recurrent Neural Networks (RNNs)
-- Introduction to RNNs
-  - What are Recurrent Neural Networks
-  - Why RNNs are Useful
-  - Basic RNN Architecture
-- Vanishing and Exploding Gradients
-  - Gradient Problems in RNNs
-  - LSTM and GRU
-- Applications of RNNs
-  - Sequence to Sequence Tasks
-  - Language Modeling
-  - Machine Translation
-  - Image Captioning
-- Bidirectional RNNs
-  - Forward and Backward RNNs
-- Challenges and Future Directions
-  - Long-Term Dependencies
-  - Attention Mechanisms
-  - Transformers
+- #### Introduction to RNNs
+  - #### What are Recurrent Neural Networks
+  - #### Why RNNs are Useful
+  - #### Basic RNN Architecture
+- #### Vanishing and Exploding Gradients
+  - #### Gradient Problems in RNNs
+  - #### LSTM and GRU
+- #### Applications of RNNs
+  - #### Sequence to Sequence Tasks
+  - #### Language Modeling
+  - #### Machine Translation
+  - #### Image Captioning
+- #### Bidirectional RNNs
+  - #### Forward and Backward RNNs
+- #### Challenges and Future Directions
+  - #### Long-Term Dependencies
+  - #### Attention Mechanisms
+  - #### Transformers
