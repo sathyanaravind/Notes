@@ -8,9 +8,7 @@
   - [loss function](#loss-function)
   - [gradient descent](#gradient-descent)
   - [back propagation](#back-propagation)
-  - [Tries](#tries)
-  - [Graphs](#graphs)
-  - [Hashing](#hashing)
+
 - [Improving Neural Networks](#improving-neural-networks)
   - [Train/Dev/Test Sets](#train-dev-test-sets)
   - [Bias/Variance](#bias-variance)
@@ -27,7 +25,6 @@
     - [Gradient Checking](#gradient-checking)
     - [Mini Batch Gradient Descent](#mini-batch-gradient-descent)
     - [Exponentially Weighted Averages](#exponentially-weighted-averages)
-    - [Bias Correction of Exponentially Weighted Averages](#bias-correction-of-exponentially-weighted-averages)
     - [Gradient Descent with Momentum](#gradient-descent-with-momentum)
     - [RMS Prop](#rms-prop)
     - [Adam Optimization Algorithm](#adam-optimization-algorithm)
