@@ -1,4 +1,4 @@
-# Deep Learning
+# Machine Learning
 
 ## Table of Contents
 - [Supervised](#Supervised)
