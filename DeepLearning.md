@@ -172,5 +172,22 @@
   - #### Gradient accumulation
   - 
 - #### Data Parallelism
-  - ##### 
+  - ##### Communication primitives
+    - #### Broadcast operator
+      First we send from one node/gpu to other. Then both the first and second gpu sends to others and continue same   
+      Initials 8 gpus 1-2-3-4-5-6-7-8
+      step 1: 1-2 share parameter  5 seconds  
+      step 2: 1-3 and 2-4 share parameter 5 seconds  
+      step 3: 1-5, 2-6, 3-7, 4-8  5 seconds
+      Without collective communication if we assume 5 seconds to send data, it takes total 40 secs 
+      Now it is 5+5+5 = 15 secs  
+      
+      
+      
+      
+    - #### Reduce operator
+    - #### All-Reduce operator
 - #### Model Parallelism
+- #### Pytorch Data parallelism
+  - #### Bucketing
+  - #### Computaion-communication overlap during backpropagation
