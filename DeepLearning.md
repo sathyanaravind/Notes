@@ -80,11 +80,10 @@
   - [Transformers](#Transformers)
  
 - [MLOPS](#MLOPS)
--   Distributed Training
-  - Gradient accumulation
-  - 
--   Data Parallelism
--   Model Parallelism
+-   [Distributed Training](#Distributed-Training)
+  - [Gradient accumulation](#Gradient-accumulation)
+  - [Data Parallelism](#Data-Parallelism)
+  - [Model Parallelism](#Model-Parallelism)
 
   
 ### Neural Networks
