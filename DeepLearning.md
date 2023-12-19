@@ -168,8 +168,8 @@
   - #### Transformers
  
 - ### MLOPS
-- ####Distributed Training
-  - ####Gradient accumulation
+- #### Distributed Training
+  - #### Gradient accumulation
   - 
 - #### Data Parallelism
   - ##### 
