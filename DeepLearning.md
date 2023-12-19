@@ -78,6 +78,13 @@
   - [Long-Term Dependencies](#long-term-dependencies)
   - [Attention Mechanisms](#attention-mechanisms)
   - [Transformers](#Transformers)
+ 
+- [MLOPS](#MLOPS)
+-   Distributed Training
+  - Gradient accumulation
+  - 
+-   Data Parallelism
+-   Model Parallelism
 
   
 ### Neural Networks
@@ -160,3 +167,11 @@
   - #### Long-Term Dependencies
   - #### Attention Mechanisms
   - #### Transformers
+ 
+- ### MLOPS
+- ####Distributed Training
+  - ####Gradient accumulation
+  - 
+- #### Data Parallelism
+  - ##### 
+- #### Model Parallelism
