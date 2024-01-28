@@ -31,9 +31,17 @@ produced by vibrations of objects
 #### DL Pipleline for Audio data
 ![image](https://github.com/sathyanaravind/Notes/assets/77285092/fb72ca09-30f6-4e78-9d4d-f874bef84cfc)
 
+
 #### Mel Spectrum
 - capture timbral/textural aspects of sound
 - frequency domain
 - approximate human auditory system
 - 13 to 40 coefficients
 - calculated at each frame
+
+
+#### Preprocessing audio data for Deep Learning
+1. load and display waveform
+2. fft
+3. stft
+4. mfcc
